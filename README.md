@@ -1,2 +1,2 @@
 # Kaficomika
-WEB store
+Web coffee shop
