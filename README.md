@@ -1,2 +1,2 @@
 # Kaficomika
-Web coffee shop
+An online coffee shop
