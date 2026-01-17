@@ -1,4 +1,4 @@
 # Kaficomika
 An online coffee shop
 
-[Preuzmi dokumentaciju](/dokumentacija.docx)
+[Preuzmi dokumentaciju](/dokumentacija.pdf)
